@@ -4,7 +4,7 @@
   "description": "A Cordova app for Jellyfin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jellyfin/jellyfin-android.git"
+    "url": "https://github.com/hector384/tetor.git"
   },
   "scripts": {
     "prepare": "gulp"
@@ -23,7 +23,7 @@
     "gulp": "^4.0.0",
     "gulp-dom": "^1.0.0",
     "gulp-if": "^2.0.2",
-    "jellyfin-web": "git+https://github.com/jellyfin/jellyfin-web.git#v10.5.5",
+    "jellyfin-web": "git+https://github.com/LibardoVega/CentralStremer.git#v10.5.5",
     "org.jellyfin.mobile": "file:src/NativeShell",
     "request": "^2.88.0"
   },
